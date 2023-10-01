@@ -20,15 +20,14 @@ The primary goal of this project is to identify the root causes of returned orde
 ### Tools and Libraries:
 - Tableau: Utilize Tableau for data visualization and analysis.
 
+## Link to the project:
+https://public.tableau.com/views/saving_super_store_2_16961068198490/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+##  Link to presentation:
+https://public.tableau.com/views/Saving_SuperStore_2_Presentation/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Workbook Preview:
 ![Sample Image](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%202/Pics/1.png)
 ![Sample Image](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%202/Pics/2.png)
 ![Sample Image](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%202/Pics/3.png)
 ![Sample Image](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%202/Pics/4.png)
-
-
-### Link to the project:
-https://public.tableau.com/views/saving_super_store_2_16961068198490/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
-
-###  Link to presentation:
-https://public.tableau.com/views/Saving_SuperStore_2_Presentation/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link
