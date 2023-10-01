@@ -3,19 +3,19 @@
 # Optimizing Marketing Expenses for Yandex.Afisha
 
 
-### Description of the Project:
+## Description of the Project:
 As an analyst at Yandex.Afisha, we should optimize marketing expenses to maximize revenue. We have access to valuable data sources, including server logs for user visits, order data, and marketing expense statistics for the period from June 2017 through May 2018. Key analyses include:  User Behavior Analyses, Sales Data Analyses, Marketing Expenses Analyses.
 
-###Project Goal:
+## Project Goal:
 The primary goal of this project is to gain insights into user behavior, conversion patterns, and the effectiveness of marketing channels to provide actionable insights to Yandex.Afisha's marketing department, enabling them to optimize marketing expenses effectively. 
 
-### Tools and Libraries:
+## Tools and Libraries:
 -	Python: Use Python programming language for data cleaning, manipulation, and analysis.
 -	Pandas: Manipulate and preprocess the data efficiently.
 -	Matplotlib, Seaborn, Plotly: Create visualizations and charts for data exploration and presentation.
 -   Numpy: Utilize NumPy for numerical computations and array manipulation.
 
-### Data Documentation:
+## Data Documentation:
 
 The `visits` table (server logs with data on website visits):
 - `'Uid'` — user's unique identifier
@@ -36,3 +36,12 @@ The `costs` table (data on marketing expenses):
 - `'costs'` — expenses on this ad source on this day
 
 ### Workbook Preview:
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/1.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/2.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/3.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/4.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/5.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/6.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/7.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/8.png)
+![Business Analytics - Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses/Pics/9.png)
