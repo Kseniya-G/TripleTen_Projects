@@ -3,7 +3,7 @@
 # Saving SuperStore
 
 
-### Description of the Project:
+## Description of the Project:
 As a consultant hired to review the SuperStore's operations and improve profitability, this project focuses on understanding and visualizing key aspects of the SuperStore's business to make data-driven recommendations. We will explore profits and losses, advertising strategies, and product returns to provide insights that can help the SuperStore avoid bankruptcy.
 
 For each question, we will prepare an individual visualization:
@@ -25,13 +25,17 @@ The superstore wants to know if advertising would be worth it. Advertising works
 - Which customers have the highest return rate?
 - We will make a visualization of the average profit against the average return rate on a shipping mode. Present a visual argument why the superstore should do away with or keep doing business on the basis of this dimension.
 
-###Project Goal:
+## Project Goal:
 The primary goal of this project is to leverage Tableau's data visualization capabilities to analyze the SuperStore's profitability and make informed decisions. We aim to identify profit centers, loss-makers, and advertising opportunities. Additionally, we'll investigate product return rates to determine which products and customers are contributing to returns.
 
-### Tools and Libraries:
+## Tools and Libraries:
 - Tableau: Utilize Tableau for data visualization and analysis.
 
-### Workbook Preview:
+## Workbook Preview:
+![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/1.png)
+![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/2.png)
+![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/3.png)
+![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/4.png)
 
 
 ### Link to the project:
