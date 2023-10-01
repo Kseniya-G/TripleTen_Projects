@@ -7,7 +7,7 @@
 For this  project we’ve been provided with a dataset and a figure. Our job is to use either seaborn or plotly to recreate the figure using the dataset.
 The dataset contains the results of a mock study where 100 red squirrels were given one of three different diets after weaning, and their full grown adult weights were recorded. 
 
-###Project Goal:
+### Project Goal:
 The goal of the project is to recreate given figure.
 
 ### Tools and Libraries:
