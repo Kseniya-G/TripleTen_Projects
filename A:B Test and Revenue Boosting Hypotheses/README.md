@@ -30,6 +30,7 @@ Data used in the first part of the project (`hypotheses_us.csv`):
 - `'Effort'` — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
 
 Data used in the second part of the project (`orders_us.csv`):
+
 `orders_us.csv`:
 - `'transactionId'` — order identifier
 - `'visitorId'` — identifier of the user who placed the order
