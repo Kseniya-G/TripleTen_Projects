@@ -31,6 +31,9 @@ The primary goal of this project is to leverage Tableau's data visualization cap
 ## Tools and Libraries:
 - Tableau: Utilize Tableau for data visualization and analysis.
 
+## Link to the project:
+https://public.tableau.com/views/saving_super_store_1_16961033050350/Part1_Question1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Workbook Preview:
 ![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/1.png)
 ![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/2.png)
@@ -38,5 +41,3 @@ The primary goal of this project is to leverage Tableau's data visualization cap
 ![Alt Text](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Tableau%20-%20Saving%20SuperStore%201/Pics/4.png)
 
 
-### Link to the project:
-https://public.tableau.com/views/saving_super_store_1_16961033050350/Part1_Question1?:language=en-US&:display_count=n&:origin=viz_share_link
