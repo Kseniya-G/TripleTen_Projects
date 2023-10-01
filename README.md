@@ -3,7 +3,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp (forme
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Google Sheets - Manhattan Vacation Rental Market Analysis](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis) | Assisting a client in Manhattan's vacation rental market analysis using Airbnb data to inform property investment decisions. |
+| 1 | Google Sheets - Manhattan Vacation Rental Market Analysis| Assisting a client in Manhattan's vacation rental market analysis using Airbnb data to inform property investment decisions. |
 | 2 | SQL - Rideshare Analysis | Analyzing ride-sharing data in Chicago to understand passenger preferences and the impact of external factors. |
 | 3 | Tableau - Saving SuperStore 1 | Analyzing SuperStore operations to optimize profitability, identify advertising opportunities, and reduce product returns. |
 | 4 | Tableau - Saving SuperStore 2 | Analyzing SuperStore's data to understand and reduce the volume of returned orders. |
