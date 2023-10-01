@@ -3,16 +3,16 @@
 # Ride-Sharing Analysis for Zuber Chicago
 
 
-### Description of the Project:
+## Description of the Project:
 In this project, we'll be assisting Zuber, a new ride-sharing company about to launch in Chicago. Our role as analysts is to examine data from competitors in the ride-sharing industry and investigate a hypothesis related to how weather conditions may influence ride frequency.
 
-###Project Goal:
+## Project Goal:
 The goal of the project is to find patterns in the available information and understand passenger preferences and the impact of external factors on rides.
 
 ### Tools and Libraries:
 -	SQLite Studio
 
-### Data Documentation:
+## Data Documentation:
 
 `neighborhoods` table - data on city neighborhoods:
 - `'name'` -  name of the neighborhood
@@ -39,11 +39,14 @@ The goal of the project is to find patterns in the available information and und
 - `'temperature'` - temperature when the record was taken
 - `'description'` - brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
-### Workbook Preview:
+## Workbook Preview:
+![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Rideshare%20Analysis/Pics/1.png)
 
+![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Rideshare%20Analysis/Pics/2.png)
 
+![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Rideshare%20Analysis/Pics/3.png)
 
-### Conclusions
+## Conclusions
 1. Flash Cab is the most popular taxi company in Chicago, doing twice as many trips as the next one, Taxi Affiliation Services. Zuber should look into how Flash Cab achieves this success, maybe by getting advice from someone who knows the local taxi business. 
 2. Chicago taxis can be any color, but many choose colors for easy recognition. "Yellow" is a common choice, originating in Chicago and popular in other cities. Zuber should consider hiring drivers with colors used by trusted companies, like Blue/white for Flash Cab or the regular yellow.
 3. Weather affects trip duration, with bad weather making trips longer. Longer trips mean cabs are busy for a while, leading to less availability. Zuber needs to think about how to adjust prices based on the weather.
