@@ -23,7 +23,7 @@ The primary goal of this project is to identify the root causes of returned orde
 ## Link to the project:
 https://public.tableau.com/views/saving_super_store_2_16961068198490/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
-##  Link to presentation:
+##  Link to the presentation:
 https://public.tableau.com/views/Saving_SuperStore_2_Presentation/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Workbook Preview:
