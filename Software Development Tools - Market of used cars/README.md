@@ -25,7 +25,7 @@ https://project-6.onrender.com/
 To run the app locally, navigate to the `'Software Development Tools- Market of used cars'` directory in your terminal and run the command `streamlit run app.py`.
 
 ## Workbook Preview:
-![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/6.%20Software%20Development%20Tools-%20Market%20of%20used%20cars/Pics/1.png)
-![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/6.%20Software%20Development%20Tools-%20Market%20of%20used%20cars/Pics/2.png)
-![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/6.%20Software%20Development%20Tools-%20Market%20of%20used%20cars/Pics/3.png)
-![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/6.%20Software%20Development%20Tools-%20Market%20of%20used%20cars/Pics/4.png)
+![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Software%20Development%20Tools%20-%20Market%20of%20used%20cars/Pics/1.png)
+![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Software%20Development%20Tools%20-%20Market%20of%20used%20cars/Pics/2.png)
+![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Software%20Development%20Tools%20-%20Market%20of%20used%20cars/Pics/3.png)
+![Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Software%20Development%20Tools%20-%20Market%20of%20used%20cars/Pics/4.png)
