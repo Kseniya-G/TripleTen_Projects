@@ -40,11 +40,11 @@ The goal of the project is to find patterns in the available information and und
 - `'description'` - brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 ## Workbook Preview:
-![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Rideshare%20Analysis/Pics/1.png)
+![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/SQL%20-%20Rideshare%20Analysis/Pics/1.png)
 
-![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Rideshare%20Analysis/Pics/2.png)
+![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/SQL%20-%20Rideshare%20Analysis/Pics/2.png)
 
-![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Rideshare%20Analysis/Pics/3.png)
+![Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/SQL%20-%20Rideshare%20Analysis/Pics/3.png)
 
 ## Conclusions
 1. Flash Cab is the most popular taxi company in Chicago, doing twice as many trips as the next one, Taxi Affiliation Services. Zuber should look into how Flash Cab achieves this success, maybe by getting advice from someone who knows the local taxi business. 
