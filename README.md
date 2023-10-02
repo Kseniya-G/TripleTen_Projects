@@ -8,7 +8,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp (forme
 | 3 | Tableau - Saving SuperStore 1 | Analyzing SuperStore operations to optimize profitability, identify advertising opportunities, and reduce product returns. |
 | 4 | Tableau - Saving SuperStore 2 | Analyzing SuperStore's data to understand and reduce the volume of returned orders. |
 | 5 | Music Preferences | Comparing music preferences between Springfield and Shelbyville using real Yandex.Music data to test hypotheses about user behavior. |
-| 6 | Software Development Tools- Market of used cars | Analyzing car sales data, create visualizations, and building a user-friendly web app to explore price factors. |
+| 6 | Software Development Tools - Market of used cars | Analyzing car sales data, create visualizations, and building a user-friendly web app to explore price factors. |
 | 7 | Customer Behavior and Product Analysis | Analyzing a modified Instacart dataset to gain insights into customer behavior and shopping patterns, with a focus on optimizing marketing strategies. |
 | 8 | Data Vizualization - Squirrel Diet | Recreating a figure using a dataset that contains the results of a mock study on red squirrels' diets and their adult weights. |
 | 9 | Business Analytics -  Optimizing Marketing Expenses | Optimizing marketing expenses at Yandex.Afisha by analyzing user behavior, sales data, and marketing expenses for a specific period. |
