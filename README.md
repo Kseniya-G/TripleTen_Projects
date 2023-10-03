@@ -3,15 +3,15 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp (forme
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Google Sheets - Manhattan Vacation Rental Market Analysis| Assisting a client in Manhattan's vacation rental market analysis using Airbnb data to inform property investment decisions. |
-| 2 | SQL - Rideshare Analysis | Analyzing ride-sharing data in Chicago to understand passenger preferences and the impact of external factors. |
-| 3 | Tableau - Saving SuperStore 1 | Analyzing SuperStore operations to optimize profitability, identify advertising opportunities, and reduce product returns. |
-| 4 | Tableau - Saving SuperStore 2 | Analyzing SuperStore's data to understand and reduce the volume of returned orders. |
-| 5 | Music Preferences | Comparing music preferences between Springfield and Shelbyville using real Yandex.Music data to test hypotheses about user behavior. |
-| 6 | Software Development Tools - Market of used cars | Analyzing car sales data, create visualizations, and building a user-friendly web app to explore price factors. |
-| 7 | Customer Behavior and Product Analysis | Analyzing a modified Instacart dataset to gain insights into customer behavior and shopping patterns, with a focus on optimizing marketing strategies. |
-| 8 | Data Vizualization - Squirrel Diet | Recreating a figure using a dataset that contains the results of a mock study on red squirrels' diets and their adult weights. |
-| 9 | Business Analytics -  Optimizing Marketing Expenses | Optimizing marketing expenses at Yandex.Afisha by analyzing user behavior, sales data, and marketing expenses for a specific period. |
-| 10 | A/B Test and Revenue Boosting Hypotheses | Maximizing online store revenue through hypothesis prioritization and A/B test analysis. |
-| 11 |  Machine Learning - Mobile Plan Classifier |  Developing a model for Megaline to recommend plans based on subscriber behavior. |
-| 12 | Final Project - Customer Segmentation Analysis | Conducting a comprehensive customer analysis for AtliQ Hardware to gain insights into customer behavior and preferences |
+| 1 | [Google Sheets - Manhattan Vacation Rental Market Analysis](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis)| Assisting a client in Manhattan's vacation rental market analysis using Airbnb data to inform property investment decisions. |
+| 2 | [SQL - Rideshare Analysis](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/SQL%20-%20Rideshare%20Analysis) | Analyzing ride-sharing data in Chicago to understand passenger preferences and the impact of external factors. |
+| 3 | [Tableau - Saving SuperStore 1](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Tableau%20-%20Saving%20SuperStore%201) | Analyzing SuperStore operations to optimize profitability, identify advertising opportunities, and reduce product returns. |
+| 4 | [Tableau - Saving SuperStore 2](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Tableau%20-%20Saving%20SuperStore%202) | Analyzing SuperStore's data to understand and reduce the volume of returned orders. |
+| 5 | [Music Preferences](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Music%20Preferences) | Comparing music preferences between Springfield and Shelbyville using real Yandex.Music data to test hypotheses about user behavior. |
+| 6 | [Software Development Tools - Market of used cars](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Software%20Development%20Tools%20-%20Market%20of%20used%20cars) | Analyzing car sales data, create visualizations, and building a user-friendly web app to explore price factors. |
+| 7 | [Customer Behavior and Product Analysis](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Customer%20Behavior%20and%20Product%20Analysis) | Analyzing a modified Instacart dataset to gain insights into customer behavior and shopping patterns, with a focus on optimizing marketing strategies. |
+| 8 | [Data Vizualization - Squirrel Diet](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Data%20Vizualization%20-%20Squirrel%20Diet) | Recreating a figure using a dataset that contains the results of a mock study on red squirrels' diets and their adult weights. |
+| 9 | [Business Analytics -  Optimizing Marketing Expenses](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Business%20Analytics%20-%20%20Optimizing%20Marketing%20Expenses) | Optimizing marketing expenses at Yandex.Afisha by analyzing user behavior, sales data, and marketing expenses for a specific period. |
+| 10 | [A/B Test and Revenue Boosting Hypotheses](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/A%3AB%20Test%20and%20Revenue%20Boosting%20Hypotheses) | Maximizing online store revenue through hypothesis prioritization and A/B test analysis. |
+| 11 |  [Machine Learning - Mobile Plan Classifier](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Machine%20Learning%20-%20Mobile%20Plan%20Classifier) |  Developing a model for Megaline to recommend plans based on subscriber behavior. |
+| 12 | [Final Project - Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/tree/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis) | Conducting a comprehensive customer analysis for AtliQ Hardware to gain insights into customer behavior and preferences |
