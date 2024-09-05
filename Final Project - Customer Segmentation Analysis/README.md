@@ -93,7 +93,7 @@ https://public.tableau.com/views/RMFCustomerSegmentation/Dashboard1?:language=en
 ![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/1.png)
 ![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/2.png)
 ![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/3.png)
-![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/4.png)
+![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/4.pmg.png)
 ![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/5.png)
 ![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/6.png)
 ![Customer Segmentation Analysis](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Final%20Project%20-%20Customer%20Segmentation%20Analysis/Pics/Dashboard.png)
